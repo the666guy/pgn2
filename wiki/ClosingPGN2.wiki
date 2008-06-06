@@ -1,6 +1,6 @@
 #summary How to close PGN2 when in hidden mode?
 
-= HowTo =
+=HowTo=
 
 The only way to close PGN2, when hidden, is using windows task manager.
 
